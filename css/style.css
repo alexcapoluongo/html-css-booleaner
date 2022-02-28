@@ -1,9 +1,9 @@
-*{
+/* *{
     margin:0;
     padding:0;
     box-sizing: border-box;
 } 
-
+ */
 
 .heading{
     width:100%;
@@ -22,6 +22,7 @@
 
 #subone{
     color:grey;
+    margin-bottom:0px;
 }
 
 #subone a{
@@ -32,6 +33,7 @@
 #subtwo{
     color:grey;
     font-size: 12px;
+    margin-top: 0px;
 }
 
 .timimages{
@@ -40,4 +42,9 @@
 
 .underphotos{
     font-size: 11px;
+    margin.top:0px;
+}
+
+.firstparagraph, .list{
+    margin-top: 20px;
 }
