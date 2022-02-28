@@ -60,10 +60,15 @@ thead{
     font-weight: bold;
 }
 
-.coloredrows{
-    background-color:#b1e4f2 ;
-}
+th, td{
+    padding-right: 200px;
+    margin-bottom: auto;
+    text-align: center;
 
+}
+.bluerow{
+    background-color: #b1e4f2;
+}
 .underline{
     background-color: yellow;
 }
