@@ -1,10 +1,13 @@
-/* *{
+ *{
     margin:0;
     padding:0;
     box-sizing: border-box;
 } 
- */
-
+ 
+.container{
+    margin-left:15px;
+    margin-right:15px;
+}
 .heading{
     width:100%;
     height: 150px;
@@ -45,6 +48,21 @@
     margin.top:0px;
 }
 
-.firstparagraph, .list{
+.paragraph, .list{
     margin-top: 20px;
+    margin-bottom:20px;
+}
+
+thead{
+    color:white;
+    background-color: #1fa9e5;
+    font-weight: bold;
+}
+
+.coloredrows{
+    background-color:#b1e4f2 ;
+}
+
+.underline{
+    background-color: yellow;
 }
